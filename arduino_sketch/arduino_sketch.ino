@@ -783,7 +783,7 @@ void setup()
   uint8_t c;
 
 
-  Serial.begin(19200);
+  Serial.begin(38400);
   /*
   Serial.println(F("InvenSense MPU-6050"));
   Serial.println(F("June 2012"));
